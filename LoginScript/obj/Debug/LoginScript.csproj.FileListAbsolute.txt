@@ -1,0 +1,11 @@
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\LoginScript\LoginScript\obj\Debug\LoginScript.csprojAssemblyReference.cache
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\LoginScript\LoginScript\obj\Debug\LoginScript.csproj.CoreCompileInputs.cache
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\LoginScript\LoginScript\bin\Debug\LoginScript.cs
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\LoginScript\LoginScript\bin\Debug\MyFirstScript.dll
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\LoginScript\LoginScript\bin\Debug\MyFirstScript.pdb
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\LoginScript\LoginScript\bin\Debug\w3bot.exe
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\LoginScript\LoginScript\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\LoginScript\LoginScript\bin\Debug\de\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\LoginScript\LoginScript\obj\Debug\LoginScript.csproj.CopyComplete
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\LoginScript\LoginScript\obj\Debug\MyFirstScript.dll
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\LoginScript\LoginScript\obj\Debug\MyFirstScript.pdb

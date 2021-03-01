@@ -1,0 +1,1 @@
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\MyFirstScript\MyFirstScript\obj\x86\Release\LoginScript.csproj.CoreCompileInputs.cache

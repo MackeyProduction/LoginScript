@@ -1,0 +1,13 @@
+C:\Users\Til Anheier\source\repos\MyFirstScript\MyFirstScript\bin\x86\Debug\Class1.cs
+C:\Users\Til Anheier\source\repos\MyFirstScript\MyFirstScript\bin\x86\Debug\MyFirstScript.dll
+C:\Users\Til Anheier\source\repos\MyFirstScript\MyFirstScript\bin\x86\Debug\MyFirstScript.pdb
+C:\Users\Til Anheier\source\repos\MyFirstScript\MyFirstScript\bin\x86\Debug\w3bot.exe
+C:\Users\Til Anheier\source\repos\MyFirstScript\MyFirstScript\bin\x86\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Til Anheier\source\repos\MyFirstScript\MyFirstScript\bin\x86\Debug\de\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Til Anheier\source\repos\MyFirstScript\MyFirstScript\obj\x86\Debug\MyFirstScript.csproj.CopyComplete
+C:\Users\Til Anheier\source\repos\MyFirstScript\MyFirstScript\obj\x86\Debug\MyFirstScript.dll
+C:\Users\Til Anheier\source\repos\MyFirstScript\MyFirstScript\obj\x86\Debug\MyFirstScript.pdb
+C:\Users\Til Anheier\Documents\w3bot\compiled\Class1.cs
+C:\Users\Til Anheier\Documents\w3bot\compiled\MyFirstScript.dll
+C:\Users\Til Anheier\Documents\w3bot\compiled\MyFirstScript.pdb
+C:\Users\Til Anheier\source\repos\MyFirstScript\MyFirstScript\obj\x86\Debug\MyFirstScript.csprojAssemblyReference.cache
